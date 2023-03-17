@@ -1,0 +1,8 @@
+setup.py
+Firebase/__init__.py
+Firebase/main.py
+Firebase.egg-info/PKG-INFO
+Firebase.egg-info/SOURCES.txt
+Firebase.egg-info/dependency_links.txt
+Firebase.egg-info/requires.txt
+Firebase.egg-info/top_level.txt
